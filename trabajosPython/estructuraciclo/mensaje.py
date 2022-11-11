@@ -12,4 +12,3 @@ for letras in mensaje:
     if letras=='a':
         print('a qui estan las a')
     print(letras)
-S

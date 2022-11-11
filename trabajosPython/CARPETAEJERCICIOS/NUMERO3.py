@@ -18,3 +18,4 @@ match texto:
         print(mensajes[5:])
     case _: 
         print ('error') 
+        
