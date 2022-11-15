@@ -41,8 +41,8 @@ if numero !=0:
         
 print("factorial:",factorial)
 ##crear una funcion que me diga si una palabra es palindromo
-ada
-ala
+#ada
+#ala
 def palindromo(cadena):
     izquierda = 0
     derecha = len(cadena)-1
